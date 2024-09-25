@@ -1,0 +1,1 @@
+print(' [1] Adicionar \n [2]Remover \n [3]listar \n [4]Sair')
